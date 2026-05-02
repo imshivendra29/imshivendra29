@@ -133,12 +133,13 @@ Whatever dropped this week   →  always
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imshivendra29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imshivendra29)
-[![Instagram](https://img.shields.io/badge/Instagram-imshivendra29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imshivendra29/)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-imshivendra29-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imshivendra29)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/33MXAFYJNUC3B1)
-[![GitHub](https://img.shields.io/badge/GitHub-imshivendra29-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshivendra29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivendrasingh.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://shivendrasingh.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imshivendra29)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imshivendra29/)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imshivendra29)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/33MXAFYJNUC3B1)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshivendra29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivendrasingh.vercel.app)
 
 ---
 📧 **Email:** imshivendra29@gmail.com
