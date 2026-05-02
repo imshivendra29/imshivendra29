@@ -100,6 +100,7 @@ Whatever dropped this week   →  always
 
 ![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=0e75b6&style=flat&label=Profile+Views)
 ![Repos](https://img.shields.io/badge/Public%20Repos-15%2B-blue?style=flat&logo=github)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-25%2B-blue?style=flat&logo=github)  
 ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=flat)
 ![Stack](https://img.shields.io/badge/Stack-.NET%20%7C%20MERN-orange?style=flat)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat)
