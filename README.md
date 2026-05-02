@@ -1,6 +1,6 @@
 <!-- GitHub Profile README — imshivendra29 -->
 <meta name="google-site-verification" content="DixLE93aeWxFnLldk0bWV9Jt156hOUVxQzncU6yMNJs" />
-<h1>Hey, I'm Shivendra Pratap Singh 👋</h1>
+                                                        <h1>Hey, I'm Shivendra Pratap Singh 👋</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
@@ -133,10 +133,12 @@ Whatever dropped this week   →  always
 ---
 
 ### 🤝 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivendrasingh.vercel.app-black?style=flat-square)](https://shivendrasingh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imshivendra29-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/imshivendra29)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imshivendra29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imshivendra29)
+[![Instagram](https://img.shields.io/badge/Instagram-imshivendra29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imshivendra29/)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-imshivendra29-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imshivendra29)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/33MXAFYJNUC3B1)
+[![GitHub](https://img.shields.io/badge/GitHub-imshivendra29-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshivendra29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivendrasingh.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://shivendrasingh.vercel.app)
 📧 **Email:** imshivendra29@gmail.com
 
 ---
