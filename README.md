@@ -101,8 +101,16 @@ Whatever dropped this week   →  always
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imshivendra29&theme=default&hide_border=true)](https://git.io/streak-stats)
 ![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivendra29&layout=compact&langs_count=8&hide_border=true&theme=transparent)
 ---
+### 📊 GitHub Stats
+
+![Shivendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HackinfoG&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HackinfoG&layout=compact&langs_count=8&hide_border=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HackinfoG&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square&label=Profile+Views)
 
 ### 💡 What drives me
 
