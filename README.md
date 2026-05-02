@@ -10,7 +10,7 @@
   
   <img src="https://img.shields.io/badge/Curious-By%20Nature-red?style=flat-square" />
 </p>
-
+<h3 align="center">**Full Stack Developer · ASP.NET Core & MERN · AI Integrations · Noida, India**</h3>
 **Full Stack Developer · ASP.NET Core & MERN · AI Integrations · Noida, India**
 
 ---
