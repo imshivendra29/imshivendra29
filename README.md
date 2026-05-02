@@ -96,21 +96,32 @@ Whatever dropped this week   →  always
 🔗 [shivendrasingh.vercel.app](https://shivendrasingh.vercel.app)
 
 ---
+### 📊 GitHub at a Glance
 
-### 📊 GitHub Stats
+![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=0e75b6&style=flat&label=Profile+Views)
+![Repos](https://img.shields.io/badge/Public%20Repos-15%2B-blue?style=flat&logo=github)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=flat)
+![Stack](https://img.shields.io/badge/Stack-.NET%20%7C%20MERN-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imshivendra29&theme=default&hide_border=true)](https://git.io/streak-stats)
-![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square)
 ---
-### 📊 GitHub Stats
 
-![Shivendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HackinfoG&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+### 🧰 Languages & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HackinfoG&layout=compact&langs_count=8&hide_border=true&theme=transparent)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HackinfoG&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square&label=Profile+Views)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💡 What drives me
 
