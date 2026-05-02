@@ -101,8 +101,7 @@ Whatever dropped this week   →  always
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imshivendra29&theme=default&hide_border=true)](https://git.io/streak-stats)
 ![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivendra29&layout=compact&theme=default&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivendra29&layout=compact&langs_count=8&hide_border=true&theme=transparent)
 ---
 
 ### 💡 What drives me
