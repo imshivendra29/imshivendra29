@@ -117,7 +117,7 @@ Whatever dropped this week   →  always
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivendrasingh.vercel.app-black?style=flat-square)](https://shivendrasingh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imshivendra29-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/imshivendra29)
 
-📧 **Email:** your@email.com
+📧 **Email:** imshivendra29@gmail.com
 
 ---
 
