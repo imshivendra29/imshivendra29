@@ -139,6 +139,8 @@ Whatever dropped this week   →  always
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/33MXAFYJNUC3B1)
 [![GitHub](https://img.shields.io/badge/GitHub-imshivendra29-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshivendra29)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivendrasingh.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://shivendrasingh.vercel.app)
+
+---
 📧 **Email:** imshivendra29@gmail.com
 
 ---
