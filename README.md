@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-Enthusiast-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Automation-Explorer-orange?style=flat-square" />
+  
   <img src="https://img.shields.io/badge/Curious-By%20Nature-red?style=flat-square" />
 </p>
 
@@ -98,8 +99,8 @@ Whatever dropped this week   →  always
 
 ### 📊 GitHub Stats
 
-![Shivendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshivendra29&show_icons=true&theme=default&hide_border=true&count_private=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=imshivendra29&theme=default&hide_border=true)](https://git.io/streak-stats)
+![Visitors](https://komarev.com/ghpvc/?username=imshivendra29&color=blue&style=flat-square)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivendra29&layout=compact&theme=default&hide_border=true)
 
 ---
