@@ -1,6 +1,5 @@
 <!-- GitHub Profile README — imshivendra29 -->
-<meta name="google-site-verification" content="DixLE93aeWxFnLldk0bWV9Jt156hOUVxQzncU6yMNJs" />
-                                                        <h1>Hey, I'm Shivendra Pratap Singh 👋</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
