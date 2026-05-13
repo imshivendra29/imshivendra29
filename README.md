@@ -80,15 +80,15 @@ Whatever dropped this week   →  always
 
 ---
 
-#### 🛒 MERN Shopping App + AI Chatbot *(in progress)*
-> Role-based platform (Admin/User) with PhonePe payments + AI-powered product assistant
+#### 🛒 Donation Plateform + AI Chatbot  [GitHub](https://github.com/imshivendra29/donation-project ), [Live Demo](https://donationonline.vercel.app)
+> A donation full stack project  platform (Admin/User) with razorpay payments + AI-powered product assistant
 
 **Stack:** `MongoDB Atlas` `Express` `React` `Node.js` `PhonePe` `Cloudinary` `LLM Integration`
 
 ---
 
 #### 🌐 AI Portfolio Website [GitHub](https://github.com/imshivendra29/portfolio-os), [Live Demo](https://shivendraportfolio.vercel.app)
-> Personal portfolio with integrated AI chatbot, live on Vercel
+> Personal portfolio with integrated AI chatbot, live on Vercel  - old type win-95 type ui
 
 **Stack:** `Next.js` `Claude API` `Vercel`  
 
