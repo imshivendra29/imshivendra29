@@ -77,21 +77,21 @@ Whatever dropped this week   →  always
 > Full-stack chat with private messaging, group rooms & live presence indicators
 
 **Stack:** `SignalR` `Socket.io` `React` `Node.js` `MongoDB`
-
+🔗 [GitHub](https://github.com/imshivendra29/Talknet.Api) · [Live Demo](https://shopnext.vercel.app)
 ---
 
 #### 🛒 MERN Shopping App + AI Chatbot *(in progress)*
 > Role-based platform (Admin/User) with PhonePe payments + AI-powered product assistant
 
 **Stack:** `MongoDB Atlas` `Express` `React` `Node.js` `PhonePe` `Cloudinary` `LLM Integration`
-🔗 [GitHub](https://github.com/imshivendra29/ShopNext) · [Live Demo](https://shopnext.vercel.app)
+
 ---
 
 #### 🌐 AI Portfolio Website
 > Personal portfolio with integrated AI chatbot, live on Vercel
 
 **Stack:** `Next.js` `Claude API` `Vercel`  
-🔗 [shivendrasingh.vercel.app](https://shivendrasingh.vercel.app)
+🔗 [GitHub](https://github.com/imshivendra29/Talknet.Api) · [Live Demo](https://shopnext.vercel.app)
 
 ---
 ### 📊 GitHub at a Glance
