@@ -73,11 +73,11 @@ Whatever dropped this week   →  always
 
 ---
 
-#### 💬 Real-time Chat App
+#### 💬 Real-time Chat App [GitHub](https://github.com/imshivendra29/Talknet.Api)
 > Full-stack chat with private messaging, group rooms & live presence indicators
 
 **Stack:** `SignalR` `Socket.io` `React` `Node.js` `MongoDB`
-🔗 [GitHub](https://github.com/imshivendra29/Talknet.Api) · [Live Demo](https://shopnext.vercel.app)
+
 ---
 
 #### 🛒 MERN Shopping App + AI Chatbot *(in progress)*
@@ -87,11 +87,11 @@ Whatever dropped this week   →  always
 
 ---
 
-#### 🌐 AI Portfolio Website
+#### 🌐 AI Portfolio Website [GitHub](https://github.com/imshivendra29/portfolio-os), [Live Demo](https://shivendraportfolio.vercel.app)
 > Personal portfolio with integrated AI chatbot, live on Vercel
 
 **Stack:** `Next.js` `Claude API` `Vercel`  
-🔗 [GitHub](https://github.com/imshivendra29/Talknet.Api) · [Live Demo](https://shopnext.vercel.app)
+
 
 ---
 ### 📊 GitHub at a Glance
