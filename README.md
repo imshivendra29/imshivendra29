@@ -66,10 +66,10 @@ Whatever dropped this week   →  always
 
 ### 🚀 Featured Projects
 
-#### 🛍️ ShopNest API — E-commerce Backend
+#### 🛍️ ShopNext 
 > Clean Architecture ASP.NET Core Web API with JWT auth, EF Core, SQL Server & Cloudinary
 
-**Stack:** `ASP.NET Core` `Clean Architecture` `EF Core` `SQL Server` `JWT` `Cloudinary`
+**Stack:** `ASP.NET Core` `Clean Architecture` `EF Core` `SQL Server` `JWT` `Cloudinary``with SOLID principle Architecture`
 
 ---
 
