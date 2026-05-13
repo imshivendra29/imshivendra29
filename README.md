@@ -66,7 +66,7 @@ Whatever dropped this week   →  always
 
 ### 🚀 Featured Projects
 
-#### 🛍️ ShopNext 
+#### 🛍️ ShopNext [GitHub](https://github.com/imshivendra29/ShopNext)
 > Clean Architecture ASP.NET Core Web API with JWT auth, EF Core, SQL Server & Cloudinary
 
 **Stack:** `ASP.NET Core` `Clean Architecture` `EF Core` `SQL Server` `JWT` `Cloudinary``with SOLID principle Architecture`
@@ -84,7 +84,7 @@ Whatever dropped this week   →  always
 > Role-based platform (Admin/User) with PhonePe payments + AI-powered product assistant
 
 **Stack:** `MongoDB Atlas` `Express` `React` `Node.js` `PhonePe` `Cloudinary` `LLM Integration`
-
+🔗 [GitHub](https://github.com/imshivendra29/ShopNext) · [Live Demo](https://shopnext.vercel.app)
 ---
 
 #### 🌐 AI Portfolio Website
